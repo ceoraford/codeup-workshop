@@ -6,10 +6,10 @@ This code base includes starter code for creating a React landing page with Auth
 
 To run the project, first clone this project and in your terminal run the following commands
 
-`code`
+```bash
 cd codeup-workshop
 
 npm install
 
 npm run dec
-`code`
+```
