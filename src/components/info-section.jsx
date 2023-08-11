@@ -2,7 +2,7 @@ import React from "react";
 
 export default function InfoSection() {
   return(
-    <div>
+    <div id="about">
       <h1> Welcome to MeetGreet</h1>
       <div className="information">
         <div className="people-image">

@@ -8,8 +8,8 @@ export default function NavBar() {
     <nav className="nav-bar">
       <ul className="nav-container">
         <li className="title"> MeetGreet</li>
-        <li> <a href="/">About</a></li>
-        <li> <a href="/">Locations</a> </li>
+        <li> <a href="#about">About</a></li>
+        <li> <a href="#locations">Locations</a> </li>
         <li><NavBarButtons /></li>
       </ul>
     </nav>
