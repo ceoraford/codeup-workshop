@@ -1,10 +1,16 @@
 import './styles/App.css'
 import NavBar from "./components/navbar.jsx"
+import InfoSection from './components/info-section.jsx'
+import Testimonials from './components/testimonials.jsx'
+import Locations from './components/location-section.jsx'
+
 function App() {
   return (
     <>
-      <h1> Welcome to MeetGreet</h1>
       <NavBar />
+      <InfoSection />
+      <Locations />
+      <Testimonials />
     </>
   )
 }
