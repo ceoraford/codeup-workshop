@@ -1,0 +1,81 @@
+#root {
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+h1 {
+  text-align:center;
+}
+
+.nav-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 30px;
+  margin: 0 20px 100px 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.title {
+  font-size: 35px;
+  color: purple;
+}
+
+.information {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 20%;
+}
+
+img {
+  width:500px;
+}
+
+.description {
+  font-size: 20px;
+  padding: 0 20px;
+}
+
+.people-image {
+  flex-basis: 40%;
+}
+
+.testimonial-card {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  border: 1px black solid;
+  border-radius: 5px;
+  background-color: aliceblue;
+  padding: 15px;
+  margin: 20px;
+  width: 25%;
+}
+
+.testimonials {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.location {
+  width: 30%;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+}
+
+.locations {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  margin: 70px;
+}
