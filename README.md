@@ -1,8 +1,15 @@
-# React + Vite
+# React Sample Website with Auth0 Integration
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This code base includes starter code for creating a React landing page with Auth0 powered login and logout
 
-Currently, two official plugins are available:
+## Run the project 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run the project, first clone this project and in your terminal run the following commands
+
+`code`
+cd codeup-workshop
+
+npm install
+
+npm run dec
+`code`
