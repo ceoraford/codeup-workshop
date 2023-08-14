@@ -11,5 +11,5 @@ cd codeup-workshop
 
 npm install
 
-npm run dec
+npm run dev
 ```
